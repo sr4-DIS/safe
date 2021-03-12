@@ -1,5 +1,4 @@
-# safe
-SAFEProject Collegiate Recovery Census
+# SAFEProject Collegiate Recovery Census
 
 Author: Alex Hryhorczuk, sr4-DIS
 
